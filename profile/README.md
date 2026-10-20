@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/triport-labs/.github/main/profile/assets/banner.png" alt="Triport Labs" width="100%">
+  <img src="https://raw.githubusercontent.com/triport-labs/.github/main/profile/assets/banner-9-networks.png" alt="Triport Labs" width="100%">
 </p>
 
 <p align="center">
-  <a href="https://triport.io"><img src="https://img.shields.io/badge/Website-triport.io-88b4f5?style=flat-square" alt="Website"></a>
-  <a href="https://triport.io/docs"><img src="https://img.shields.io/badge/Docs-triport.io%2Fdocs-22d97a?style=flat-square" alt="Docs"></a>
-  <a href="https://x.com/triport_io"><img src="https://img.shields.io/badge/X-@triport__io-000000?style=flat-square&logo=x" alt="X"></a>
-  <a href="https://t.me/triport_dev"><img src="https://img.shields.io/badge/Telegram-@triport__dev-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="mailto:sales@triport.io"><img src="https://img.shields.io/badge/Email-sales@triport.io-818cf8?style=flat-square" alt="Email"></a>
+  <a href="https://triport.io"><img src="https://img.shields.io/badge/Website-88b4f5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://triport.io/docs"><img src="https://img.shields.io/badge/Docs-22d97a?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Docs"></a>
+  <a href="https://x.com/triport_io"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://t.me/triport_dev"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="mailto:sales@triport.io"><img src="https://img.shields.io/badge/Email-818cf8?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"></a>
 </p>
 
 ## 9 networks, one API
