@@ -6,7 +6,7 @@
   <a href="https://triport.io"><img src="https://img.shields.io/badge/Website-88b4f5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
   <a href="https://triport.io/docs"><img src="https://img.shields.io/badge/Docs-22d97a?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Docs"></a>
   <a href="https://x.com/triport_io"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-  <a href="https://t.me/triport_dev"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://t.me/triport_sales"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="mailto:sales@triport.io"><img src="https://img.shields.io/badge/Email-818cf8?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"></a>
 </p>
 
