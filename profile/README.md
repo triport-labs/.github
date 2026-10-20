@@ -24,6 +24,18 @@
 | **Transaction sending** | Fan-out `sendTransaction` and Jito bundles |
 | **Data APIs** | Transaction history, wallet activity and token metadata |
 
+## Open source
+
+| Repository | What it is |
+|---|---|
+| [triport-sdk](https://github.com/triport-labs/triport-sdk) | TypeScript SDK for all nine networks: JSON-RPC, REST and WebSocket streams |
+| [triport-python-sdk](https://github.com/triport-labs/triport-python-sdk) | Python SDK, sync and async |
+| [triport-cli](https://github.com/triport-labs/triport-cli) | `triport` command line: RPC calls, address history, live WebSocket and Yellowstone gRPC streams |
+| [triport-examples](https://github.com/triport-labs/triport-examples) | Clone-and-run examples in TypeScript, Python and Rust |
+| [triport-docs](https://github.com/triport-labs/triport-docs) | User documentation, mirrored from [triport.io/docs](https://triport.io/docs) |
+| [triport-skills](https://github.com/triport-labs/triport-skills) | Agent Skills for Claude Code, Codex and Cursor |
+| [awesome-solana-infra](https://github.com/triport-labs/awesome-solana-infra) | Curated list of Solana infrastructure for developers |
+
 ## Get started
 
 Create a free key in the [console](https://triport.io/app), then make your first call:
